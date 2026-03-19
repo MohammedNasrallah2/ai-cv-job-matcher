@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 
-API_URL = "http://127.0.0.1:8000/analyze-resume-match"
+API_URL = "https://ai-cv-job-matcher-api.onrender.com/analyze-resume-match"
 
 st.set_page_config(
     page_title="AI CV Job Matcher",
