@@ -102,6 +102,14 @@ This makes the project more modular, extensible, and closer to real AI workflow 
 
 ---
 
+## Live Demo
+
+- Frontend: YOUR_STREAMLIT_LINK
+- Backend API: https://ai-cv-job-matcher-api.onrender.com
+- API Docs: https://ai-cv-job-matcher-api.onrender.com/docs
+
+---
+
 ## Project Structure
 
 ```text
